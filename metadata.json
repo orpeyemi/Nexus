@@ -1,0 +1,7 @@
+{
+  "name": "Nexus DEX Pro",
+  "description": "A high-fidelity cryptocurrency exchange prototype featuring a real-time order matching engine, institutional-grade charting, KYC/AML compliance flows, and AI-powered market analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
